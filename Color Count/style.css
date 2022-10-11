@@ -1,0 +1,27 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#title{
+    color:chocolate;
+}
+#red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+#yellow{
+    height: 100px;
+    width: 100px;
+    background-color:yellow;
+}
+#orange{
+    height: 100px;
+    width: 100px;
+    background-color:orangered;
+}
+#main{
+    margin-top: 20px;
+    display: flex;
+
+}
